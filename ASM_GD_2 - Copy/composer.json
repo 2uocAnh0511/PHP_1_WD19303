@@ -1,0 +1,9 @@
+{
+    "name": "asm/pc09326",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
